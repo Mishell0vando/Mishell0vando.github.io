@@ -1,7 +1,7 @@
-# Blog of Song Kong
-This is a Jekyll theme called Ice bear.
+# Blog de Mishell
+¿A ustedes les gustan los postres?
 
-To learn how to install and use this theme, please check out the [installation guide](http://ikongsong.com/blog/ice-bear-jekyll-theme/) for more information.
+A mí me me gustan mucho, pero es un poco chistoso que me encanten pero el chocolate no es mi favorito porque siento que es el que más rápido me enpalaga. Pero si hablamos de favoritos gana la gelatina pues no empalaga y hay muchos sabores.
 
-## License
-This theme is open source under MIT License. So feel free to use this Jekyll theme on your site, although linking back to me is more than welcomed.
+## Pinterest
+A mí me gusta mucho esta app, la recomiendo y yo creo que todos deberían usarla. Me gusta tener muchas carpetas sobre uñas, ropa, maquillaje o inspo pra dibujar. 
