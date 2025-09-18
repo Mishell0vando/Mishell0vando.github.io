@@ -1,6 +1,6 @@
 #Site
-title: 水榭清松-Song Kong
-description: This is Song' home.
+title: Mishell blogs
+description: Este es mi diario
 logo: favicon.png
 url: ikongsong.com
 rss_url: /feed.xml
@@ -21,8 +21,8 @@ sass:
 
 # Comment
 comment:
-  disqus: kongsong    
-  # duoshuo: kongsong
+  disqus: Mishell0vando    
+  # duoshuo: Mishell
   # youyan: 2122392
   # laibili: MTAyMC8yODgzNC81NDA0
   gitalk: true
@@ -34,34 +34,16 @@ baidu_analytics: 5b31ffbbdc6cff18727f3adf75a03777    #from //hm.baidu.com/hm.js?
 # Author information:
 author:
   #resume: /resume
-  name: Song Kong     #the name of Blog section
-  about_me: I'm Song Kong. This is my online home & blog, where I share thoughts about front-end development, cloud computing, my daily life and other insteresting topics. Feel free to contact me by email if you have any question.
+  name: Mishell      #tMyDays
+  about_me: Hola, soy Mishell. Mi postre favorito es el Cheesecake y las gelatinas (especialmente las de uva y mosaico).
  
 # Social Links
-email:               hi@ikongsong.com
-#google.plus:        username
+email:               ovandovaleri21@gmail.com
 #twitter:            username
-facebook:            kongsong
-github:              songkong
-stackoverflow:      6438519/song-kong   #from a "http://stackoverflow.com/users/123456/username" link
-linkedin:           kongsong
-#xing:              username
-#instagram:          username
-#lastfm:            username
-#tumblr:            username
-#pinterest:         username
-#foursquare:        username
-#steam:              username
-#dribbble:          username
-#youtube:           username
-#soundcloud:        username
-#weibo:             username
-#flickr:            username
-#codepen:           username
-#keybase:           username
-#xmpp:              username@server.com
-#hackernews:        username
-#behance:           username
+facebook:            Shell Ovando
+github:              Mishell0vando
+#instagram:          dearsshell
+#pinterest:          baeee
 
 # Plugins
 plugins:
@@ -71,3 +53,4 @@ plugins:
 
 # Exclude list
 exclude: [README.md, Gemfile, Gemfile.lock, _site, src, vendor, CNAME, LICENSE, Rakefile,.sass-cache,.DS_Store,.idea]
+
