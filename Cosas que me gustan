@@ -11,7 +11,7 @@ tags:
 ---
 This is my first jekyll theme decorated by my favorite items -- blue and ice bear. It's welcomed to give me a star at github if you like it.
 
-<iframe src="https://ghbtns.com/github-btn.html?user=songkong&repo=Blog&type=star&count=true" frameborder="0" scrolling="0" width="170px" height="20px"></iframe>
+<iframe src="https://ghbtns.com/github-btn.html?user=Mishell0vando&repo=Blog&type=star&count=true" frameborder="0" scrolling="0" width="170px" height="20px"></iframe>
 
 
 > I use two categories for posts in my blog, `Tech` and `Life`. If you want to add other categories, remember to modify `_includes/post-list-pagination`, `_layouts/post-list.html` and `assets/js/script.js` to add `Tabs` and `Paginations` for every category posts. 
@@ -62,6 +62,7 @@ table | table | table | table | table
 ----|------|---- | ---- | ---- 
 This is table | This is table | This is table | This is table | This is table
 This is table | This is table | This is table | This is table | This is table
+
 
 
 
