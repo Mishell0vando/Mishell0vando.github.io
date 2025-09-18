@@ -2,7 +2,7 @@
 title: Mishell blogs
 description: Este es mi diario
 logo: favicon.png
-url: ikongsong.com
+url: mishell0vando.com
 rss_url: /feed.xml
 
 # Jekyll
@@ -53,4 +53,5 @@ plugins:
 
 # Exclude list
 exclude: [README.md, Gemfile, Gemfile.lock, _site, src, vendor, CNAME, LICENSE, Rakefile,.sass-cache,.DS_Store,.idea]
+
 
