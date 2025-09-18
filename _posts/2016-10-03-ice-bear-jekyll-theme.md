@@ -3,7 +3,7 @@ layout: post
 title:  "Postres"
 date:   2025-09-18 1 08:15:30 +0800
 categories: [Tech]
-excerpt:Este es mi primer post.
+excerpt:Este es mi primer post, espero les guste a todos.
 tags:
   - EG
   - jekyll
@@ -13,16 +13,6 @@ This is my first jekyll theme decorated by my favorite items -- blue and ice bea
 
 <iframe src="https://ghbtns.com/github-btn.html?user=songkong&repo=Blog&type=star&count=true" frameborder="0" scrolling="0" width="170px" height="20px"></iframe>
 
-# Installation
----
-
-* Fork the repository. <iframe src="https://ghbtns.com/github-btn.html?user=songkong&repo=Blog&type=fork&count=true" frameborder="0" scrolling="0" width="170px" height="20px"></iframe>
-* Edit `_config.yml` file.
-* Add your own `projects` in `_includes/projects.html`.
-* Change `domain name` in `CNAME`.
-* Replace `favicon.ico` with your website icon.
-* Change `avatar.jpg` and `cartoon-avatar.jpg` in `assets/images`.
-* Edit `LICENSE.md` and `README.md`.
 
 > I use two categories for posts in my blog, `Tech` and `Life`. If you want to add other categories, remember to modify `_includes/post-list-pagination`, `_layouts/post-list.html` and `assets/js/script.js` to add `Tabs` and `Paginations` for every category posts. 
 
@@ -72,6 +62,7 @@ table | table | table | table | table
 ----|------|---- | ---- | ---- 
 This is table | This is table | This is table | This is table | This is table
 This is table | This is table | This is table | This is table | This is table
+
 
 
 
