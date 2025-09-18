@@ -5,7 +5,7 @@ date:   2025-09-18 15:52:30 +0800
 categories: [Tech]
 excerpt:Este es mi primer post.
 tags:
-  - ES
+  - EG
   - jekyll
   - front-end
 ---
@@ -72,5 +72,6 @@ table | table | table | table | table
 ----|------|---- | ---- | ---- 
 This is table | This is table | This is table | This is table | This is table
 This is table | This is table | This is table | This is table | This is table
+
 
 
